@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Fabian
-#### I am an aspiring Python and DevOps Developer
+#### I am an aspiring Developer
 I love to try new things, that's why I always learn different things
 
-Skills: Java/C#/SQL/Python (Rust)
+Skills: Java/C#/SQL/Python/ (Rust/K8s/REST)
 
 - 🔭 I’m currently working on Automated Server Deployment and REST Service Design
 - 🌱 I’m currently learning K8s / Rust / Cryptography / C++ / REST
