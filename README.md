@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Fabian
-#### I am an aspiring Developer
 I love to try new things, that's why I always learn different things
 
 Skills: Java/C#/SQL/Python/ (Rust/K8s/REST)
